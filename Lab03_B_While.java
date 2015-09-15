@@ -1,5 +1,4 @@
-
-package lab03_b_while;
+//package lab03_b_while;
 import java.io.*;
 import java.util.*;
 import java.text.*;
